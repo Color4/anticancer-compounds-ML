@@ -1,0 +1,21 @@
+
+Gradient Boosting
+---------------------------------------------------------------
+Classification Report: 
+                precision    recall  f1-score   support
+
+     TM-IV-13       0.63      0.62      0.63       212
+WSF-01-016-01       0.73      0.79      0.76       231
+     WYZ-XM-5       0.88      0.93      0.90       215
+ ZT-01-066-01       0.50      0.43      0.46       201
+ ZT-02-092-01       0.47      0.47      0.47       199
+ ZT-02-133-01       0.66      0.68      0.67       213
+
+  avg / total       0.65      0.66      0.65      1271
+
+Tuned Model Parameters: {'gbc__learning_rate': 0.1}
+
+Accuracy w/o scaling:       0.659323367
+Accuracy with scaling:      0.642533937
+Improvement due to scaling: -0.016789431
+

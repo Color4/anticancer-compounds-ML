@@ -1,0 +1,21 @@
+
+Logistic Regression
+---------------------------------------------------------------
+Classification Report: 
+                precision    recall  f1-score   support
+
+     TM-IV-13       0.56      0.53      0.54       212
+WSF-01-016-01       0.66      0.84      0.74       231
+     WYZ-XM-5       0.68      0.78      0.73       215
+ ZT-01-066-01       0.50      0.41      0.45       201
+ ZT-02-092-01       0.51      0.30      0.38       199
+ ZT-02-133-01       0.58      0.67      0.62       213
+
+  avg / total       0.58      0.60      0.58      1271
+
+Tuned Model Parameters: {'lr__solver': 'newton-cg'}
+
+Accuracy w/o scaling:       0.598741149
+Accuracy with scaling:      0.602203423
+Improvement due to scaling: 0.003462274
+

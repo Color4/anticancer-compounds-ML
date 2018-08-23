@@ -1,0 +1,21 @@
+
+Support Vector Machine
+---------------------------------------------------------------
+Classification Report: 
+                precision    recall  f1-score   support
+
+     TM-IV-13       0.69      0.63      0.66       212
+WSF-01-016-01       0.73      0.81      0.77       231
+     WYZ-XM-5       0.86      0.90      0.88       215
+ ZT-01-066-01       0.54      0.48      0.51       201
+ ZT-02-092-01       0.53      0.54      0.54       199
+ ZT-02-133-01       0.67      0.67      0.67       213
+
+  avg / total       0.67      0.68      0.67      1271
+
+Tuned Model Parameters: {'SVM__C': 10, 'SVM__gamma': 0.1}
+
+Accuracy w/o scaling:       0.621557828
+Accuracy with scaling:      0.677419355
+Improvement due to scaling: 0.055861526
+
