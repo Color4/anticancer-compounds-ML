@@ -1,8 +1,7 @@
-# Survey of Machine Learning Models and Methods
-## on a real world dataset of unknown anticancer compounds
-source code for final project for MS program
+# Survey of Machine Learning Models and Methods on Unknown Anticancer Compounds
+### source code for final project for MS program
 
-References and Acknowledgements
+#### References and Acknowledgements
 1. Pedregosa, Fabian, et al. "Scikit-learn: Machine learning in Python." Journal of machine learning research 12.Oct (2011): 2825-2830.
 2. Raschka, Sebastian. Python machine learning. Packt Publishing Ltd, 2015.
 3. Watt, Jeremy, Reza Borhani, and Aggelos Katsaggelos. Machine Learning Refined: Foundations, Algorithms, and Applications. Cambridge University Press, 2016.
